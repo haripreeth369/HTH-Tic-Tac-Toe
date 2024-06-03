@@ -12,6 +12,13 @@ Tic-Tac-Toe, or "Noughts and Crosses," is a two-player game on a 3x3 grid. Playe
 
 
 
+## Demo
+
+Click Here to see and play by yourself a demo of the game.
+-[@Tic-Tac-Toe](https://hth-tic-tac-toe.vercel.app/)
+
+
+
 ## Authors
 
 - [@haripreeth369](https://github.com/haripreeth369)
@@ -40,6 +47,12 @@ To deploy this project run
 ```bash
   npm run deploy
 ```
+
+
+## Hosting
+
+The Website is Hosted on the Vercel.
+
 
 
 ## Feedback
